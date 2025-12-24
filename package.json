@@ -1,0 +1,32 @@
+{
+  "name": "es-logical-not-operator",
+  "version": "1.0.0",
+  "description": "! in fp",
+  "keywords": [
+    "not",
+    "operator",
+    "js",
+    "logic",
+    "gate"
+  ],
+  "homepage": "https://github.com/in-fp/es-logical-not-operator#readme",
+  "bugs": {
+    "url": "https://github.com/in-fp/es-logical-not-operator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/in-fp/es-logical-not-operator.git"
+  },
+  "license": "EGPSL10X-1.0",
+  "author": "10x'ly made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@not-js/not": "^1.1.0",
+    "literally": "^1.0.0",
+    "yanoop": "^1.0.0"
+  }
+}
